@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\bin\Debug\net6.0\EstudoService.deps.json
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\bin\Debug\net6.0\EstudoService.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\bin\Debug\net6.0\EstudoService.pdb
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\bin\Debug\net6.0\EstudoRepository.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\bin\Debug\net6.0\EstudoRepository.pdb
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.csproj.CopyComplete
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\refint\EstudoService.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\EstudoService.pdb
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoService\obj\Debug\net6.0\ref\EstudoService.dll

@@ -1,0 +1,12 @@
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\bin\Debug\net6.0\EstudoRepository.deps.json
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\bin\Debug\net6.0\EstudoRepository.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\bin\Debug\net6.0\EstudoRepository.pdb
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\refint\EstudoRepository.dll
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\EstudoRepository.pdb
+C:\Users\PICHAU\Documents\EstudoApi\EstudoApi\EstudoRepository\obj\Debug\net6.0\ref\EstudoRepository.dll
